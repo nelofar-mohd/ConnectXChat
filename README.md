@@ -18,9 +18,6 @@ A real-time LAN-based chat application developed using Java Socket Programming a
 - UDP Multicasting
 - Multithreading
 
-## Project Screenshots
-(Add screenshots here)
-
 ## How to Run
 1. Open project in IntelliJ IDEA
 2. Run `MulticastClient.java`
