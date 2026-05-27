@@ -28,4 +28,4 @@ A real-time LAN-based chat application developed using Java Socket Programming a
 4. Start chatting on LAN network
 
 ## Author
-Vaishnavi
+Habibunnisa
