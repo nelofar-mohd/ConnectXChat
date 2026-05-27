@@ -26,6 +26,17 @@ A real-time LAN-based chat application developed using Java Socket Programming a
 2. Run `MulticastClient.java`
 3. Enter username
 4. Start chatting on LAN network
+   
+## Project Screenshots
+
+### Login Popup
+![Login Popup](screenshots/login-popup.png)
+
+### Chat Window
+![Chat Window](screenshots/chat-window.png)
+
+### Messaging Screen
+![Messaging](screenshots/messaging.png)
 
 ## Author
 Habibunnisa
